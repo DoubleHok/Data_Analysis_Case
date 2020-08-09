@@ -1,5 +1,5 @@
 ### LC数据集初步分析
-![详情可查看](https://blog.csdn.net/qq_43699362/article/details/107893260)
+[图文详解可查看](https://blog.csdn.net/qq_43699362/article/details/107893260)
 
 首先我们来分析一下LC.csv数据集，LC (Loan Characteristics) 表为标的特征表，每支标一条记录。共有21个字段，包括一个主键（listingid）、7个标的特征和13个成交当时的借款人信息，全部为成交当时可以获得的信息。信息的维度比较广，大致可以分为基本信息，认证信息，信用信息，借款信息。
 
